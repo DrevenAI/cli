@@ -165,4 +165,4 @@ again.
 
 ## Changes
 
-- **0.2.4** (31 October 2026): signs in to Dreven's live app (app.drevenai.com) by default. A live key goes only to the live app, a preview key only to the preview. Links to this repository.
+- **0.2.5** (31 October 2026): signs in to Dreven's live app (app.drevenai.com) by default. A live key goes only to the live app, a preview key only to the preview. Links to this repository.
